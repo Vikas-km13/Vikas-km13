@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I'm Student<br>- 📚 I'm currently learning  Python language...</p>
+<p align="left"><br><br>- 🔭 I'm Student<br>- 📚 I'm currently learning  Python language...</p>
 
 ###
 
