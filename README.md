@@ -21,10 +21,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>Iam final year BCA student, In Oxford College of Science</h3>
+<h3 align="left">👩‍💻 Studing </h3>
 
 ###
-<p align="left"><br><br>- 🔭 I'm Student<br>- 📚 I'm currently learning  Python language...</p>
+<p align="left"><br><br>- 🔭 I'm Student<br>- 📚 I'm currently learning  Freat-end</p>
 
 ###
 
