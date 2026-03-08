@@ -1,6 +1,6 @@
- Hi 👋, I'm Vikas 
+ # Hi 👋, I'm Vikas 
 
- A passionate frontend developer from India
+ ## A passionate frontend developer from India
 
 - 🔭 I'm currently working on Frontend web Developer.
 
