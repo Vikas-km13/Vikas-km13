@@ -1,8 +1,6 @@
-# Hi 👋, I'm Vikas K M
+ Hi 👋, I'm Vikas 
 
-### A passionate frontend developer from India
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-km13&label=Profile views&color=0e75b6&style=flat" alt="vikas-km13" /> </p>
+ A passionate frontend developer from India
 
 - 🔭 I'm currently working on Frontend web Developer.
 
