@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on Frontend web Developer.
 
-- 🌱 I'm currently learning I’m currently learning Backend.
+- 🌱 I’m currently learning Backend.
 
 - 👯 I'm looking to collaborate on Open Source Web Project.
 
